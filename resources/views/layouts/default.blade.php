@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>@yield('title', 'Sample') --一家专门私人定制的网站</title>
+    <title>@yield('title', 'Sample') --私人定制</title>
 </head>
 <body>
     @yield('content')
